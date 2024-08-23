@@ -9,7 +9,7 @@ Bobby Lloyd
 
 Click the green button, then click the blue "Create a new repository" button.
 
-You will be using this template to create a _new_ repository in your github.com remote workspace.
+You will be using this template to create a _old_ repository in your github.com remote workspace.
 
 
 ![Image description](/images/a0this.png)
