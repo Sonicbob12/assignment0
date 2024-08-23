@@ -7,21 +7,12 @@ Bobby Lloyd
 
 ### 1. Use the green `Template` button above to create your own github repository. 
 
-Click the green button, then click the blue "Create a old repository" button.
-
-You will be using this template to create a _old_ repository in your github.com remote workspace.
-
 
 ![Image description](/images/a0this.png)
 
 ### 2. Name it `Assignment0` when you create your own github repository from this template
 
-If your github handle was `petecarapetyan` and you had a dark theme this is what your Assignment0 should look like now. Please notice that green `Code` button at bottom right.
-
-
 ![Image description](/images/new.jpg)
-
-- Now click that green code button and clone it with the `Open with Github Desktop`
 
 ![Image description](/images/openWithGithubDesktop.jpg)
 
