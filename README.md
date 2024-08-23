@@ -7,7 +7,7 @@ Bobby Lloyd
 
 ### 1. Use the green `Template` button above to create your own github repository. 
 
-Click the green button, then click the blue "Create a new repository" button.
+Click the green button, then click the blue "Create a old repository" button.
 
 You will be using this template to create a _old_ repository in your github.com remote workspace.
 
