@@ -8,7 +8,7 @@ Bobby Lloyd
 ### 1. Use the green `Template` button above to create your own github repository. 
 
 
-![Image description](/images/a0this.png)
+![Image description](/images/bobby.jpeg)
 
 ### 2. Name it `Assignment0` when you create your own github repository from this template
 
